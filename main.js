@@ -31,7 +31,7 @@ const material = new THREE.MeshPhysicalMaterial( {
 	clearcoatRoughness: 0.1,
 	metalness: 0.9,
 	roughness: 0.5,
-	color: 0x0000ff,
+	color: 0x6f42f5,
 	normalMap: normalMap3,
 	normalScale: new THREE.Vector2( 0.15, 0.15 )
 } );
